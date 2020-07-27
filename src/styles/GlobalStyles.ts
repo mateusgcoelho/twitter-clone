@@ -12,8 +12,8 @@ export default createGlobalStyle`
         max-height: 100vh;
         max-width: 100vw;
 
-        height: 100%100vw;
-        width: 100%100vw;
+        height: 100%;
+        width: 100%;
     }
     *, button, input {
         border: 0;
