@@ -1,4 +1,4 @@
-## UI Clone - Twitter
+# UI Clone - Twitter
 
 Este projeto foi desenvolvido para fins de estudo, o projeto trata-se de um clone da interface da rede social Twitter contando com responsividade e tecnologias atuais. A vídeo aula foi publicada pela [Rocketseat](https://www.youtube.com/watch?v=K-8z_4xvT3o)
 
@@ -15,12 +15,12 @@ Além de conseguir botar em prática todos os aprendizados em React em prática,
 
 ## Demonstração em imagens
 
-> Desktop
+### Desktop
 <img alt="GIT" title="GIT" src="/ims/download.png" width="550px" heigth:"600px" />
 
-> Tablets
+### Tablets
 <img alt="GIT" title="GIT" src="/ims/download2.png" width="450px" heigth:"450px" />
 
-> Mobile
+### Mobile
 <img alt="GIT" title="GIT" src="/ims/download3.png" width="250px" />
 
