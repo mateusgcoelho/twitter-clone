@@ -11,7 +11,7 @@ Este projeto foi desenvolvido para fins de estudo, o projeto trata-se de um clon
 
 ## Aprendizado
 
-Além de conseguir colocar em prática todos os aprendizados em React em prática, pude aprender muito com TypeScript dando uma nova perspectiva de como agilizar e melhorar a produtividade em projetos grandes com JS, alem de conhecimentos em cálculos de largura e altura em CSS ajudando assim na responsividade para todos os dispositivos.
+Além de conseguir colocar em prática todos os aprendizados em React, pude aprender muito com TypeScript dando uma nova perspectiva de como agilizar e melhorar a produtividade em projetos grandes com JS, alem de conhecimentos em cálculos de largura e altura em CSS ajudando assim na responsividade para todos os dispositivos.
 
 ## Demonstração em imagens
 
