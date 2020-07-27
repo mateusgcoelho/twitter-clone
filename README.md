@@ -2,12 +2,12 @@
 
 Este projeto foi desenvolvido para fins de estudo, o projeto trata-se de um clone da interface da rede social Twitter contando com responsividade e tecnologias atuais. A vídeo aula foi publicada pela [Rocketseat](https://www.youtube.com/watch?v=K-8z_4xvT3o)
 
-> [Deploy Here](https://bit.ly/twitter-clone-react)
+[Deploy Here](https://bit.ly/twitter-clone-react)
 
 ## Tecnologias Utilizadas
 
-> ReactJS
-> TypeScript
+- [X] ReactJS
+- [X] TypeScript
 
 ## Aprendizado
 
@@ -15,6 +15,6 @@ Além de conseguir botar em prática todos os aprendizados em React em prática,
 
 ## Prints
 
-https://prnt.sc/tp0y36
-https://prnt.sc/tp0ygo
-https://prnt.sc/tp0z9r
+<img alt="GIT" title="GIT" src="/ims/download.png" width="550px" />
+<img alt="GIT" title="GIT" src="/ims/download2.png" width="550px" />
+<img alt="GIT" title="GIT" src="/ims/download3.png" width="250px" />
