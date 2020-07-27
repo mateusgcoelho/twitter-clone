@@ -15,10 +15,12 @@ Além de conseguir botar em prática todos os aprendizados em React em prática,
 
 ## Demonstração em imagens
 
-<div style="display: flex;">
-  <div style="display: flex; flex-direction: column;">
-      <img alt="GIT" title="GIT" src="/ims/download.png" width="550px" heigth:"600px" />
-      <img alt="GIT" title="GIT" src="/ims/download2.png" width="450px" heigth:"450px" />
-  </div>
-  <img alt="GIT" title="GIT" src="/ims/download3.png" width="250px" />
-</div>
+> Desktop
+<img alt="GIT" title="GIT" src="/ims/download.png" width="550px" heigth:"600px" />
+
+> Tablets
+<img alt="GIT" title="GIT" src="/ims/download2.png" width="450px" heigth:"450px" />
+
+> Mobile
+<img alt="GIT" title="GIT" src="/ims/download3.png" width="250px" />
+
