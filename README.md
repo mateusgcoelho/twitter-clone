@@ -15,12 +15,10 @@ Além de conseguir botar em prática todos os aprendizados em React em prática,
 
 ## Demonstração em imagens
 
-### Desktop
-<img alt="GIT" title="GIT" src="/ims/download.png" width="550px" heigth:"600px" />
-
-### Tablets
-<img alt="GIT" title="GIT" src="/ims/download2.png" width="450px" heigth:"450px" />
-
-### Mobile
 <img alt="GIT" title="GIT" src="/ims/download3.png" width="250px" />
 
+<img alt="GIT" title="GIT" src="/ims/download.png" width="550px" heigth:"600px" />
+
+<img alt="GIT" title="GIT" src="/ims/download2.png" width="450px" heigth:"450px" />
+
+<img alt="GIT" title="GIT" src="/ims/download3.png" width="250px" />
