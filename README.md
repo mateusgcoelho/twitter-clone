@@ -15,6 +15,6 @@ Além de conseguir botar em prática todos os aprendizados em React em prática,
 
 ## Demonstração em imagens
 
-[Para Desktop](https://prnt.sc/tp0y36)
-[Para Tablets](https://prnt.sc/tp0ygo)
+[Para Desktop](https://prnt.sc/tp0y36) |
+[Para Tablets](https://prnt.sc/tp0ygo) |
 [Para Celulares](https://prnt.sc/tp0z9r)
